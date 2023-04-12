@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/root/autodl-tmp/CUDA_vscode/build",
+  "command": "/usr/local/cuda/bin/nvcc -forward-unknown-to-host-compiler -g --generate-code=arch=compute_52,code=[compute_52,sm_52] -x cu -c /root/autodl-tmp/CUDA_vscode/test.cu -o CMakeFiles/test.dir/test.cu.o",
+  "file": "/root/autodl-tmp/CUDA_vscode/test.cu"
+}
+]

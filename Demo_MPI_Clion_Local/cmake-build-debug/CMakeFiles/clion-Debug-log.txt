@@ -1,0 +1,4 @@
+"/Users/hcy2206/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.8109.222/CLion.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=/Users/hcy2206/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.8109.222/CLion.app/Contents/bin/ninja/mac/ninja" -D CMAKE_C_COMPILER=mpicc -D CMAKE_CXX_COMPILER=mpicxx -G Ninja -S "/Users/hcy2206/Library/Mobile Documents/com~apple~CloudDocs/Code/Cpp_test" -B "/Users/hcy2206/Library/Mobile Documents/com~apple~CloudDocs/Code/Cpp_test/cmake-build-debug"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/hcy2206/Library/Mobile Documents/com~apple~CloudDocs/Code/Cpp_test/cmake-build-debug

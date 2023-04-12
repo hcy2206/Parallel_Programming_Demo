@@ -1,0 +1,3 @@
+/Users/hcy2206/Library/Mobile Documents/com~apple~CloudDocs/Code/Demo_OpenMP/cmake-build-debug-llvm_clang/CMakeFiles/Demo_OpenMP.dir
+/Users/hcy2206/Library/Mobile Documents/com~apple~CloudDocs/Code/Demo_OpenMP/cmake-build-debug-llvm_clang/CMakeFiles/edit_cache.dir
+/Users/hcy2206/Library/Mobile Documents/com~apple~CloudDocs/Code/Demo_OpenMP/cmake-build-debug-llvm_clang/CMakeFiles/rebuild_cache.dir

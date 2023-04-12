@@ -1,0 +1,45 @@
+{
+	"version": "2.0.0",
+	// "tasks": [
+	// 	{
+	// 		"type": "cppbuild",
+	// 		"label": "C/C++: g++ 生成活动文件",
+	// 		"command": "/usr/bin/g++",
+	// 		"args": [
+	// 			"-fdiagnostics-color=always",
+	// 			"-g",
+	// 			"${file}",
+	// 			"-o",
+	// 			"${fileDirname}/${fileBasenameNoExtension}",
+	// 			"-pthread" // 开启多线程
+	// 		],
+	// 		"options": {
+	// 			"cwd": "${fileDirname}"
+	// 		},
+	// 		"problemMatcher": [
+	// 			"$gcc"
+	// 		],
+	// 		"group": {
+	// 			"kind": "test",
+	// 			"isDefault": true
+	// 		},
+	// 		"detail": "编译器: /usr/bin/g++"
+	// 	}
+	// ]
+	"tasks": [
+		{
+			"type": "shell",
+			"label": "CUDA_C++",
+			"command": "nvcc",
+			"args": [
+				"-std=c++17",
+				"-g",
+				"-G",
+				"${file}",
+				"-o",
+				"${fileDirname}/${fileBasenameNoExtension}",
+				"-lcublas"
+			]
+		}
+	]
+}
