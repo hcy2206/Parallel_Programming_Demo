@@ -1,0 +1,11 @@
+# ninja log v5
+1	13	1681447493032875000	elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-mkdir	c5650069cfc1d58c
+1	13	1681447493032875000	/Users/hcy2206/Library/Mobile Documents/com~apple~CloudDocs/Code/Demo_Pico_C++_Clion_Local/cmake-build-debug-gnu_arm_embedded/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-mkdir	c5650069cfc1d58c
+13	23	1681447493042904000	elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-download	4df17240bc934f1c
+13	23	1681447493042904000	/Users/hcy2206/Library/Mobile Documents/com~apple~CloudDocs/Code/Demo_Pico_C++_Clion_Local/cmake-build-debug-gnu_arm_embedded/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-download	4df17240bc934f1c
+23	33	1681447493053191000	elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-update	bd38897301f70750
+23	33	1681447493053191000	/Users/hcy2206/Library/Mobile Documents/com~apple~CloudDocs/Code/Demo_Pico_C++_Clion_Local/cmake-build-debug-gnu_arm_embedded/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-update	bd38897301f70750
+1	40	1681447493058774838	pico-sdk/src/rp2_common/boot_stage2/CMakeFiles/bs2_default.dir/compile_time_choice.S.obj	5339abd8a476939d
+33	42	1681447493062591000	elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-patch	9687d747abb7b7bf
+33	42	1681447493062591000	/Users/hcy2206/Library/Mobile Documents/com~apple~CloudDocs/Code/Demo_Pico_C++_Clion_Local/cmake-build-debug-gnu_arm_embedded/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-patch	9687d747abb7b7bf
+40	76	1681447493084474183	pico-sdk/src/rp2_common/boot_stage2/bs2_default.elf	f01cddee1b033bd2

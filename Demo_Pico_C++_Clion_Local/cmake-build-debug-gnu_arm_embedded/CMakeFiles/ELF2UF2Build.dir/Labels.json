@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/hcy2206/Library/Mobile Documents/com~apple~CloudDocs/Code/Demo_Pico_C++_Clion_Local/cmake-build-debug-gnu_arm_embedded/CMakeFiles/ELF2UF2Build"
+		},
+		{
+			"file" : "/Users/hcy2206/Library/Mobile Documents/com~apple~CloudDocs/Code/Demo_Pico_C++_Clion_Local/cmake-build-debug-gnu_arm_embedded/CMakeFiles/ELF2UF2Build.rule"
+		},
+		{
+			"file" : "/Users/hcy2206/Library/Mobile Documents/com~apple~CloudDocs/Code/Demo_Pico_C++_Clion_Local/cmake-build-debug-gnu_arm_embedded/CMakeFiles/ELF2UF2Build-complete.rule"
+		},
+		{
+			"file" : "/Users/hcy2206/Library/Mobile Documents/com~apple~CloudDocs/Code/Demo_Pico_C++_Clion_Local/cmake-build-debug-gnu_arm_embedded/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-build.rule"
+		},
+		{
+			"file" : "/Users/hcy2206/Library/Mobile Documents/com~apple~CloudDocs/Code/Demo_Pico_C++_Clion_Local/cmake-build-debug-gnu_arm_embedded/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-configure.rule"
+		},
+		{
+			"file" : "/Users/hcy2206/Library/Mobile Documents/com~apple~CloudDocs/Code/Demo_Pico_C++_Clion_Local/cmake-build-debug-gnu_arm_embedded/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-download.rule"
+		},
+		{
+			"file" : "/Users/hcy2206/Library/Mobile Documents/com~apple~CloudDocs/Code/Demo_Pico_C++_Clion_Local/cmake-build-debug-gnu_arm_embedded/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-install.rule"
+		},
+		{
+			"file" : "/Users/hcy2206/Library/Mobile Documents/com~apple~CloudDocs/Code/Demo_Pico_C++_Clion_Local/cmake-build-debug-gnu_arm_embedded/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-mkdir.rule"
+		},
+		{
+			"file" : "/Users/hcy2206/Library/Mobile Documents/com~apple~CloudDocs/Code/Demo_Pico_C++_Clion_Local/cmake-build-debug-gnu_arm_embedded/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-patch.rule"
+		},
+		{
+			"file" : "/Users/hcy2206/Library/Mobile Documents/com~apple~CloudDocs/Code/Demo_Pico_C++_Clion_Local/cmake-build-debug-gnu_arm_embedded/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ELF2UF2Build"
+		],
+		"name" : "ELF2UF2Build"
+	}
+}

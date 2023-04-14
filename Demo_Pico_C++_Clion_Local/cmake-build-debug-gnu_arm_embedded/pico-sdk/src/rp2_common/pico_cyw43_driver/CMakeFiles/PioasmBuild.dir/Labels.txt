@@ -1,0 +1,13 @@
+# Target labels
+ PioasmBuild
+# Source files and their labels
+/Users/hcy2206/Library/Mobile Documents/com~apple~CloudDocs/Code/Demo_Pico_C++_Clion_Local/cmake-build-debug-gnu_arm_embedded/pico-sdk/src/rp2_common/pico_cyw43_driver/CMakeFiles/PioasmBuild
+/Users/hcy2206/Library/Mobile Documents/com~apple~CloudDocs/Code/Demo_Pico_C++_Clion_Local/cmake-build-debug-gnu_arm_embedded/pico-sdk/src/rp2_common/pico_cyw43_driver/CMakeFiles/PioasmBuild.rule
+/Users/hcy2206/Library/Mobile Documents/com~apple~CloudDocs/Code/Demo_Pico_C++_Clion_Local/cmake-build-debug-gnu_arm_embedded/pico-sdk/src/rp2_common/pico_cyw43_driver/CMakeFiles/PioasmBuild-complete.rule
+/Users/hcy2206/Library/Mobile Documents/com~apple~CloudDocs/Code/Demo_Pico_C++_Clion_Local/cmake-build-debug-gnu_arm_embedded/pico-sdk/src/rp2_common/pico_cyw43_driver/pioasm/src/PioasmBuild-stamp/PioasmBuild-build.rule
+/Users/hcy2206/Library/Mobile Documents/com~apple~CloudDocs/Code/Demo_Pico_C++_Clion_Local/cmake-build-debug-gnu_arm_embedded/pico-sdk/src/rp2_common/pico_cyw43_driver/pioasm/src/PioasmBuild-stamp/PioasmBuild-configure.rule
+/Users/hcy2206/Library/Mobile Documents/com~apple~CloudDocs/Code/Demo_Pico_C++_Clion_Local/cmake-build-debug-gnu_arm_embedded/pico-sdk/src/rp2_common/pico_cyw43_driver/pioasm/src/PioasmBuild-stamp/PioasmBuild-download.rule
+/Users/hcy2206/Library/Mobile Documents/com~apple~CloudDocs/Code/Demo_Pico_C++_Clion_Local/cmake-build-debug-gnu_arm_embedded/pico-sdk/src/rp2_common/pico_cyw43_driver/pioasm/src/PioasmBuild-stamp/PioasmBuild-install.rule
+/Users/hcy2206/Library/Mobile Documents/com~apple~CloudDocs/Code/Demo_Pico_C++_Clion_Local/cmake-build-debug-gnu_arm_embedded/pico-sdk/src/rp2_common/pico_cyw43_driver/pioasm/src/PioasmBuild-stamp/PioasmBuild-mkdir.rule
+/Users/hcy2206/Library/Mobile Documents/com~apple~CloudDocs/Code/Demo_Pico_C++_Clion_Local/cmake-build-debug-gnu_arm_embedded/pico-sdk/src/rp2_common/pico_cyw43_driver/pioasm/src/PioasmBuild-stamp/PioasmBuild-patch.rule
+/Users/hcy2206/Library/Mobile Documents/com~apple~CloudDocs/Code/Demo_Pico_C++_Clion_Local/cmake-build-debug-gnu_arm_embedded/pico-sdk/src/rp2_common/pico_cyw43_driver/pioasm/src/PioasmBuild-stamp/PioasmBuild-update.rule

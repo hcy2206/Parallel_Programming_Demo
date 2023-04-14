@@ -1,0 +1,5 @@
+/Users/hcy2206/Library/Mobile Documents/com~apple~CloudDocs/Code/Demo_Pico_C++_Clion_Local/cmake-build-debug-gnu_arm_embedded/elf2uf2/CMakeFiles/elf2uf2.dir
+/Users/hcy2206/Library/Mobile Documents/com~apple~CloudDocs/Code/Demo_Pico_C++_Clion_Local/cmake-build-debug-gnu_arm_embedded/elf2uf2/CMakeFiles/edit_cache.dir
+/Users/hcy2206/Library/Mobile Documents/com~apple~CloudDocs/Code/Demo_Pico_C++_Clion_Local/cmake-build-debug-gnu_arm_embedded/elf2uf2/CMakeFiles/rebuild_cache.dir
+/Users/hcy2206/Library/Mobile Documents/com~apple~CloudDocs/Code/Demo_Pico_C++_Clion_Local/cmake-build-debug-gnu_arm_embedded/elf2uf2/boot_uf2_headers/CMakeFiles/edit_cache.dir
+/Users/hcy2206/Library/Mobile Documents/com~apple~CloudDocs/Code/Demo_Pico_C++_Clion_Local/cmake-build-debug-gnu_arm_embedded/elf2uf2/boot_uf2_headers/CMakeFiles/rebuild_cache.dir

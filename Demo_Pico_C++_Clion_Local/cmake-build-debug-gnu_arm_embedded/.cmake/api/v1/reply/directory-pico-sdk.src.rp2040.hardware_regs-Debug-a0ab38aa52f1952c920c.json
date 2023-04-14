@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "pico-sdk/src/rp2040/hardware_regs",
+		"source" : "/Users/hcy2206/Library/Mobile Documents/com~apple~CloudDocs/Github/Pico/pico-sdk/src/rp2040/hardware_regs"
+	}
+}
